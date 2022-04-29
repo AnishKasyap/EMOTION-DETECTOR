@@ -31,3 +31,7 @@ The repository is currently compatible with `tensorflow-2.0` and makes use of th
 
 * The emotion with maximum score is displayed on the screen.
 
+## Accuracy
+
+![accuracy](https://user-images.githubusercontent.com/61614524/165885260-37163a27-8bf3-48cd-9e58-bd01fb09ce0e.png)
+
